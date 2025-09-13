@@ -1,4 +1,4 @@
-# Welcome to your anime-or-cartoon project
+# Welcome to the anime-or-cartoon project
 
 ## Project info
 
